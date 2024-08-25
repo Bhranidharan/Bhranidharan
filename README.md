@@ -90,8 +90,6 @@
   <img width="12" />
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="30" alt="postman logo"  />
      <img width="12" />
- <img src="https://curity.io/images/resources/getting-started/test-using-curl.png" style="border-radius: 50%; height: 30px;" alt="cURL logo" />
-<img width="12" />
 
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30" alt="git logo"  />
  
