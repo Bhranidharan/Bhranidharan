@@ -24,7 +24,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bharanidharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharanidharan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharanidharan-india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharanidharan-india" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bharani-dharan-r-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bharani-dharan-r-13" height="30" width="40" /></a>
 <a href="https://instagram.com/bharanidharan_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharanidharan_23" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bharani_dharan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharani_dharan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bharanidharanbh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharanidharanbh1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bharanidharanbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharanidharanbharath" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bharanidharanbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bharanidharanbharath" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bharanidharanbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharanidharanbharath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhranidharan&show_icons=true&locale=en" alt="bhranidharan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhranidharan&" alt="bhranidharan" /></p>
-
