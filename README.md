@@ -10,7 +10,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhranidharan&theme=dark" alt="bhranidharan streak stats" />
 </div>
 
-<img align = "right" alt = "coding" width = "450" src ="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"/>
+<br>
+<img align = "right" alt = "coding" width = "400" height="300" src ="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhranidharan&label=Profile%20views&color=0e75b6&style=flat" alt="bhranidharan" /> </p>
 <!--
