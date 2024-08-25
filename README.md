@@ -22,13 +22,13 @@
 
 - 🌱 I’m currently learning **JPA/Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhranidharan](https://github.com/Bhranidharan)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Bhranidharan)
 
 - 💬 Ask me about **MERN Stack, Spring Boot**
 
 - 📫 How to reach me **bharanidharanbharath@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kAz9qFDs7ZFpb0Mu1AD7I-WTCjrfhGcL/view?usp=sharing](https://drive.google.com/file/d/1kAz9qFDs7ZFpb0Mu1AD7I-WTCjrfhGcL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kAz9qFDs7ZFpb0Mu1AD7I-WTCjrfhGcL/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 
