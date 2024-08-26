@@ -110,4 +110,8 @@
 <a href="https://www.hackerearth.com/@bharanidharanbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bharanidharanbharath" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharanidharanbharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharanidharanbharath" height="30" width="40" /></a>
 </p>
+<br>
 
+## Snake Eating Contribution
+
+![snake gif](https://github.com/Bhranidharan/Bhranidharan/blob/output/github-snake-dark.svg)
