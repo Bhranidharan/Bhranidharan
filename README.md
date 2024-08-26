@@ -112,6 +112,6 @@
 </p>
 <br>
 
-## Snake Eating Contribution
+## Snake Eating My Contribution Graph
 
 ![snake gif](https://github.com/Bhranidharan/Bhranidharan/blob/output/github-snake-dark.svg)
